@@ -1,3 +1,2 @@
 "# NTI "
-new
-dd
+nti
